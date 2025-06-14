@@ -1,6 +1,7 @@
 import { SectionHeader } from "@/components/SectionHeader";
 import { Card } from "@/components/Card";
 import StarIcon from "@/assets/icons/star.svg";
+import bookImage from "@/assets/images/book-cover.png";
 
 export const AboutSection = () => {
   return <div className="pb-96">
